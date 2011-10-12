@@ -1,0 +1,26 @@
+<T3DataStructure>
+<sheets>
+	<sDEF>
+	<ROOT>
+		<TCEforms>
+			<sheetTitle>LLL:EXT:tt_news/locallang_tca.xml:tt_news.pi_flexform.sheet_general</sheetTitle>
+		</TCEforms>
+		<type>array</type>
+		<el>
+		<listOrderBy>
+			<TCEforms>
+				<config>
+					<items type="array">
+						<numIndex index="###LASTINDEX###" type="array">
+							<numIndex index="0">LLL:EXT:ics_newssorting/locallang_db.xml:tt_news.pi_flexform.sorting</numIndex>
+							<numIndex index="1">tx_icsnewssorting_sorting</numIndex>
+						</numIndex>
+					</items>
+				</config>
+			</TCEforms>
+		</listOrderBy>	
+		</el>
+	</ROOT>
+	</sDEF>
+</sheets>
+</T3DataStructure>
